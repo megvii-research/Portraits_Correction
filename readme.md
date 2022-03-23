@@ -1,5 +1,6 @@
 # Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer
-Fushun Zhu, Shan Zhao, Peng Wang, Hao Wang, Hua Yan, Shuaicheng Liu
+Fushun Zhu, Shan Zhao, Peng Wang, Hao Wang, Hua Yan, Shuaicheng Liu 
+
 [arxiv](https://arxiv.org/abs/2109.08024)
 
 ## Note
