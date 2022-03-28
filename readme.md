@@ -19,6 +19,8 @@ All codes are tested on Linux.
 ### Resources preparation
 
 1. Dataset
+[GoogleDrive](https://drive.google.com/file/d/1FxzyA-EWqHnZI4H5zgZJOoqnkoAmhK0h/view?usp=sharing)
+[BaiduCloud](https://pan.baidu.com/s/1IyeyHGR4BQHGm7Q_ZFi22g?pwd=79cw)(Extraction code:79cw)
 2. Pre-trained model
 
 ### Training
