@@ -16,16 +16,12 @@ All codes are tested on Linux.
 1. Clone the repository
 2. Install dependecines
 
-### Resources preparation
+### Dataset 
+1.  **UltraWidePortraits2022**
+      * Unlabeled wide-angle portraits correction dataset 
+      * Download from  [[GoogleDrive](https://drive.google.com/file/d/1FxzyA-EWqHnZI4H5zgZJOoqnkoAmhK0h/view?usp=sharing)] or [[BaiduCloud](https://pan.baidu.com/s/1IyeyHGR4BQHGm7Q_ZFi22g?pwd=79cw)] (Extraction code:79cw)
 
-1. Dataset
-Download the unlabeled dataset **UltraWidePortraits2022** from  
-
-     GoogleDrive:  https://drive.google.com/file/d/1FxzyA-EWqHnZI4H5zgZJOoqnkoAmhK0h/view?usp=sharing
-
-     BaiduCloud:   https://pan.baidu.com/s/1IyeyHGR4BQHGm7Q_ZFi22g?pwd=79cw (Extraction code:79cw)
-
-2. Pre-trained model
+### Pre-trained model
 
 ### Training
 
