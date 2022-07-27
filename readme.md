@@ -45,8 +45,7 @@ All codes are tested on Linux.
 ### Testing
 
 ## Results
-![results](https://user-images.githubusercontent.com/1344482/181146762-bb2c76c1-a9d1-4786-bed9-79e8e8e740a8.JPG)
-
+![results](https://user-images.githubusercontent.com/1344482/181146979-4a129467-1f13-4d57-b830-65a1decdb90c.JPG)
 
 ## Citation
 
