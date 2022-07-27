@@ -28,3 +28,15 @@ All codes are tested on Linux.
 ### Testing
 
 ## Citation
+
+If you think this work is helpful, please cite
+```
+@inproceedings{zhu2022semi,
+  title={Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer},
+  author={Zhu, Fushun and Zhao, Shan and Wang, Peng and Wang, Hao and Yan, Hua and Liu, Shuaicheng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={19689--19698},
+  year={2022}
+}
+
+```
