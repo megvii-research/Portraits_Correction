@@ -1,0 +1,1 @@
+rlaunch --cpu=8 --gpu=8 --memory=10000 -- python3 train.py

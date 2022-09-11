@@ -1,0 +1,1 @@
+rlaunch --cpu=1 --gpu=1 --memory=10000 -- python3 test.py
