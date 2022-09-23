@@ -1,6 +1,6 @@
 # [CVPR2022] Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer
  
-<h4 align="center">Fushun Zhu$^{1*}$, Shan Zhao$^{2*}$, Peng Wang$^2$, Hao Wang$^2$, Hua Yan$^1$, Shuaicheng Liu$^{3,1}$</h4>
+<h4 align="center">Fushun Zhu<sup>1</sup>, Shan Zhao<sup>2</sup>, Peng Wang<sup>2</sup>, Hao Wang<sup>2</sup>, Hua Yan<sup>1</sup>, Shuaicheng Liu<sup>3,1</sup></h4>
 <h4 align="center">1. Sichuan University,             2. Megvii Technology</h4>
 <h4 align="center">3. University of Electronic Science and Technology of China</h4>
 
